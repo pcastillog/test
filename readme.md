@@ -65,6 +65,11 @@ RETURN
 * [ ] task 3
 * [X] task 4 
 
+:smiley:
+:+1:
+
+**Trucos markdown**
+[markdown]( https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ```
