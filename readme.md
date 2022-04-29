@@ -65,7 +65,9 @@ RETURN
 * [ ] task 3
 * [X] task 4 
 
+:smiley:
 
+:+1:
 
 ```
  ** para subir por primera vez al repositorio
