@@ -67,7 +67,25 @@ RETURN
 
 
 
+```
+ ** para subir por primera vez al repositorio
+git init   //iniciar git
+git status   // para revisar si se ah hecho algun commit
+git add .
+git commit -m "mi prmer ejm con markdown"
+git remote add origin https://github.com/pcastillog/test.git  // para subir al repositorio de git
+git push origin -u origin master
 
+
+
+***
+para subir cambios cuando ya subiste un proyecto
+
+git push origin master
+git commit -m "mi cambio"
+git add .
+git push origin master
+```
 
 
 
