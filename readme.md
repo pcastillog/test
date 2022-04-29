@@ -66,15 +66,11 @@ RETURN
 * [X] task 4 
 
 :smiley:
-<<<<<<< HEAD
+
 :+1:
 
 **Trucos markdown**
 [markdown]( https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-=======
->>>>>>> ed940f644d0fd1f9fe36022866fee3e65f877fa2
-
-:+1:
 
 ```
  ** para subir por primera vez al repositorio
