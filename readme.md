@@ -90,6 +90,10 @@ git push origin master
 git commit -m "mi cambio"
 git add .
 git push origin master
+
+***
+para bajar cambios de git a mi local 
+https://shelllavie.com/sincronizar-repos-github-remoto-y-local/
 ```
 
 
